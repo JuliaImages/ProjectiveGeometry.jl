@@ -1,7 +1,9 @@
 # CameraGeometry
 
-[![Build Status](https://travis-ci.org/mronian/CameraGeometry.jl.svg?branch=master)](https://travis-ci.org/mronian/CameraGeometry.jl)
+Projection, Warping, Transforms, Camera Geometry and 3D Reconstruction.
 
-[![Coverage Status](https://coveralls.io/repos/mronian/CameraGeometry.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/mronian/CameraGeometry.jl?branch=master)
+[![Build Status](https://travis-ci.org/JuliaImages/CameraGeometry.jl.svg?branch=master)](https://travis-ci.org/JuliaImages/CameraGeometry.jl)
 
-[![codecov.io](http://codecov.io/github/mronian/CameraGeometry.jl/coverage.svg?branch=master)](http://codecov.io/github/mronian/CameraGeometry.jl?branch=master)
+[![Coverage Status](https://coveralls.io/repos/JuliaImages/CameraGeometry.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/JuliaImages/CameraGeometry.jl?branch=master)
+
+[![codecov.io](http://codecov.io/github/JuliaImages/CameraGeometry.jl/coverage.svg?branch=master)](http://codecov.io/github/JuliaImages/CameraGeometry.jl?branch=master)
