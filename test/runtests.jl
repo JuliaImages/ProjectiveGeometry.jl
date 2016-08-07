@@ -1,5 +1,9 @@
-using CameraGeometry
-using Base.Test
+module CameraGeometryTest
 
 # write your own tests here
-@test 1 == 2
+using FactCheck, CameraGeometry, Base.Test, Images
+
+
+isinteractive() || FactCheck.exitstatus()
+
+end
